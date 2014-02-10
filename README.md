@@ -44,5 +44,6 @@ Go in your browser to http://localhost:9000/example_controller/main
 
 
 Once you are done coding and playing. You can exit from the server with
+    
     $ exit
     $ vagrant suspend
