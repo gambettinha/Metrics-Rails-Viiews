@@ -13,7 +13,7 @@ Then run
 
     $ vagrant init precise32 http://files.vagrantup.com/precise32.box
     $ vagrant up
-    $ vagrant destory
+    $ vagrant destroy
     
 It will download the virtual machine. 
     
