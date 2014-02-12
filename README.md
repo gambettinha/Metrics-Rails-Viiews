@@ -2,7 +2,6 @@ Hello world with Node using Vagrant
 ===================================
 
 
-
 ###Setting up Vagrant
 
 If you yet have downloaded vagrant and downloaded the precise32 box, you can skip this part.
